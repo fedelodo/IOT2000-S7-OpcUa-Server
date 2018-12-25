@@ -13,7 +13,7 @@
 
 using namespace std;
 
-byte Buffer[10544];
+byte Buffer[10548];
 TS7Client *Client;
 UA_Boolean running = true;
 const char inifile[] = "conf.ini";
