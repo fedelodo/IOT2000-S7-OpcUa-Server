@@ -1,7 +1,7 @@
 #include "open62541/include/open62541.h"
 #include <signal.h>
 #include <stdio.h>
-#include <snap7.h>
+#include "snap7.h"
 #include "s7.h"
 #include <sstream>
 #include <iostream>

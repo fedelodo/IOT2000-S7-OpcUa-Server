@@ -1,9 +1,0 @@
-eclipse.preferences.version=1
-environment/project/com.siemens.cdt.iot2000.toolchain.configuration.release.54130281/PATH/delimiter=\:
-environment/project/com.siemens.cdt.iot2000.toolchain.configuration.release.54130281/PATH/operation=replace
-environment/project/com.siemens.cdt.iot2000.toolchain.configuration.release.54130281/PATH/value=/usr/local/sbin\:/usr/local/bin\:/usr/sbin\:/usr/bin\:/sbin\:/bin\:/usr/games\:/usr/local/games\:/snap/bin\:/opt/poky-iot2000/2.4.3/sysroots/x86_64-pokysdk-linux/usr/bin/i586-poky-linux
-environment/project/com.siemens.cdt.iot2000.toolchain.configuration.release.54130281/POKY_HOME/delimiter=\:
-environment/project/com.siemens.cdt.iot2000.toolchain.configuration.release.54130281/POKY_HOME/operation=append
-environment/project/com.siemens.cdt.iot2000.toolchain.configuration.release.54130281/POKY_HOME/value=/opt/poky-iot2000/2.4.3/sysroots/i586-nlp-32-poky-linux
-environment/project/com.siemens.cdt.iot2000.toolchain.configuration.release.54130281/append=true
-environment/project/com.siemens.cdt.iot2000.toolchain.configuration.release.54130281/appendContributed=true
